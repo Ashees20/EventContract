@@ -169,7 +169,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Event.sol": "EventContract"
+			"contracts/EventContract.sol": "EventContract"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -183,12 +183,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Event.sol": {
-			"keccak256": "0xd73e3f18cb6b7a00e08f118759b16c078e83121699e1b2d87e0d829c618d797e",
+		"contracts/EventContract.sol": {
+			"keccak256": "0x3a054fc050c5bd5af268ac68298cff8b8dc0fcd4afaa75b62c3f9bdf1600d3c4",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://ec08e612bed85ba48c70f8f130d2c23e6e3566e6d0590b8cc156ab1b2c352ddb",
-				"dweb:/ipfs/QmP8oq5j9hkddJtPZUoqVTQfWNQ3BaaFYXP9wgZrVxXxnC"
+				"bzz-raw://d79e68fb4be259bfac5f87b02a6c335cf026c8d32f5320b0f12ebe95aed29b21",
+				"dweb:/ipfs/QmWkW6xGiSVZ4sTAhrNXTciMWSbMRj1gqKHZHh4T4ui8LA"
 			]
 		}
 	},
